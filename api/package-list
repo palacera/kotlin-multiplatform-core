@@ -1,0 +1,19 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/shared/[root]/index.html
+$dokka.location://App/#/PointingToDeclaration/composeApp/[root]/-app.html
+$dokka.location://AppDesktopPreview/#/PointingToDeclaration/composeApp/[root]/-app-desktop-preview.html
+$dokka.location://MainViewController/#/PointingToDeclaration/composeApp/[root]/-main-view-controller.html
+$dokka.location://SERVER_PORT/#/PointingToDeclaration/shared/[root]/-s-e-r-v-e-r_-p-o-r-t.html
+$dokka.location://main/#/PointingToDeclaration/composeApp/[root]/[wasm-js]main.html
+$dokka.location://platform/#/PointingToDeclaration/shared/[root]/platform.html
+$dokka.location:/Greeting///PointingToDeclaration/shared/[root]/-greeting/index.html
+$dokka.location:/Greeting/Greeting/#/PointingToDeclaration/shared/[root]/-greeting/-greeting.html
+$dokka.location:/Greeting/greet/#/PointingToDeclaration/shared/[root]/-greeting/greet.html
+$dokka.location:/Platform///PointingToDeclaration/shared/[root]/-platform/index.html
+$dokka.location:/Platform/Platform/#kotlin.String/PointingToDeclaration/shared/[root]/-platform/-platform.html
+$dokka.location:/Platform/name/#/PointingToDeclaration/shared/[root]/-platform/name.html
+module:composeApp
+com.palacera.kmpcore
+module:server
+com.palacera.kmpcore
