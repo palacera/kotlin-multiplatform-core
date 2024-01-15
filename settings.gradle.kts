@@ -1,4 +1,4 @@
-rootProject.name = "kotlin-multiplatform-core"
+rootProject.name = "kotlin-multiplatform-lib"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-include(":composeApp")
-include(":server")
-include(":shared")
+include("my-library")
+include(":sample:composeApp")
+include(":sample:server")
+include(":sample:shared")
